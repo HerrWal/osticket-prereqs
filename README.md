@@ -125,7 +125,7 @@ Refresh the osTicket page to verify the extensions are enabled.
 
 <h3>7. Configure osTicket</h3>
 <p>
-<img src="your_screenshot_url_here" height="80%" width="80%" alt="Configuring osTicket"/>
+<img src="https://i.imgur.com/osr8lfJ.png" height="80%" width="80%" alt="Configuring osTicket"/>
 </p>
 <p>
 <ol>
@@ -138,7 +138,7 @@ Refresh the osTicket page to verify the extensions are enabled.
 
 <h3>8. Create MySQL Database</h3>
 <p>
-<img src="your_screenshot_url_here" height="80%" width="80%" alt="HeidiSQL"/>
+<img src="https://i.imgur.com/eAOW5uO.png" height="80%" width="80%" alt="HeidiSQL"/>
 </p>
 <p>
 Install HeidiSQL and:
@@ -151,7 +151,7 @@ Install HeidiSQL and:
 
 <h3>9. Finalize Installation</h3>
 <p>
-<img src="your_screenshot_url_here" height="80%" width="80%" alt="Final Setup"/>
+<img src="https://i.imgur.com/Ou8bHgw.png" height="80%" width="80%" alt="Final Setup"/>
 </p>
 <p>
 Return to the browser setup page:
@@ -168,12 +168,17 @@ You should see a success message and be redirected to the login page:
 
 <h3>10. Post-Installation Cleanup</h3>
 <p>
-<img src="your_screenshot_url_here" height="80%" width="80%" alt="Cleanup"/>
-</p>
-<p>
 <ol>
   <li>Delete: <code>C:\inetpub\wwwroot\osTicket\setup</code></li>
   <li>Set <code>ost-config.php</code> permissions to <b>Read-only</b></li>
 </ol>
 </p>
+<h2>Conclusion</h2>
+<p>
+  Setting up osTicket on a Windows 10 VM in Azure is a perfect way to get hands-on experience with web configurations, database management, and deploying real-life applications. You work with tools like IIS, PHP,  and MySQL, and observe how everything is put together to support a full-fledged help desk system. 
+</p>
+<p>
+  Now that osTicket is running, we are ready to manage support tickets and explore more advanced features. From here, we can take it further and add custom email support, enabling HTTPS or even
+</p>
+
 <br />
