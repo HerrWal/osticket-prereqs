@@ -178,7 +178,7 @@ You should see a success message and be redirected to the login page:
   Setting up osTicket on a Windows 10 VM in Azure is a perfect way to get hands-on experience with web configurations, database management, and deploying real-life applications. You work with tools like IIS, PHP,  and MySQL, and observe how everything is put together to support a full-fledged help desk system. 
 </p>
 <p>
-  Now that osTicket is running, we are ready to manage support tickets and explore more advanced features. From here, we can take it further and add custom email support, enabling HTTPS or even
+  Now that osTicket is running, we are ready to manage support tickets and explore more advanced features.
 </p>
 
 <br />
