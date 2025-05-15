@@ -105,7 +105,7 @@ Unzip <code>osTicket-v1.15.8.zip</code> from the installation files and:
 
 <h3>6. Enable PHP Extensions</h3>
 <p>
-<img src="your_screenshot_url_here" height="80%" width="80%" alt="PHP Extensions"/>
+<img src="https://i.imgur.com/bgFXRBZ.png" height="80%" width="80%" alt="PHP Extensions"/>
 </p>
 <p>
 In IIS:
